@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/application.dir/main/main.cpp.o -o application  liblib.a 

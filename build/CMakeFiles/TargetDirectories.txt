@@ -1,0 +1,6 @@
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/CMakeFiles/lib.dir
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/CMakeFiles/application.dir
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Duy72/projects/quest/primary-number/build/lib/CMakeFiles/rebuild_cache.dir
